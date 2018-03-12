@@ -85,64 +85,64 @@ describe('Jet Blue main page test', function() {
     /* TO DO:
     
     it('shouldn't allow a login with an invalid account to work', function() {
-    attempt to sign on with an invalid account. Expect an error to be returned in a certain element.
-      });
+      attempt to sign on with an invalid account. Expect an error to be returned in a certain element.
+    });
     
     it('should allow a valid account to properly log in', function() {
-    attempt to sign on with a valid account. Expect a 'hello <name>' to be returned in a certain element.
-      });
+      attempt to sign on with a valid account. Expect a 'hello <name>' to be returned in a certain element.
+    });
     
     it('a link at the bottom of the main webpage goes to a correct site', function() {
-    Check any/all links at the bottom of the webpage. Expect a specific webpage title or/and expect NOT a 404 page.
-      });
+      Check any/all links at the bottom of the webpage. Expect a specific webpage title or/and expect NOT a 404 page.
+    });
     
     it('Should have the proper frame displayed on initial page load', function() {    
-    Load initial page and expect "Buy" element is displayed.
-      });
+      Load initial page and expect "Buy" element is displayed.
+    });
     
     it('should allow a valid account to properly log in', function() {
-    Expect all orange button elements are displayed with expected text.
-      });
+      Expect all orange button elements are displayed with expected text.
+    });
     
     it('should allow a valid account to properly log in', function() {
-    Click on each of the orange buttons. Expect buttons that take you to other pages have  a specific webpage title or/and expect NOT a 404 page.
-      });
+      Click on each of the orange buttons. Expect buttons that take you to other pages have  a specific webpage title or/and expect NOT a 404 page.
+    });
     
     it('should have a link to a spanish page', function() {
-    Click Espanol link. Expect text containing spanish in multiple elements.
-      });
+      Click Espanol link. Expect text containing spanish in multiple elements.
+    });
     
     it('should allow a flight to be booked', function() {
-    Book a flight. This should include going through a basic flight with standard dates. (Possibly use dates relative to 'today')
-      });
+      Book a flight. This should include going through a basic flight with standard dates. (Possibly use dates relative to 'today')
+    });
     
     it('Check flight status for past flight', function() {
-    Check flight status for a flight that has already completed its trip. Expect flight status page to load.
-      });
+      Check flight status for a flight that has already completed its trip. Expect flight status page to load.
+    });
     
     it('Check flight status for a flight that is in the near future', function() {
-    Check flight status for a flight that is pending. Expect a flight status page to load.
-      });
+      Check flight status for a flight that is pending. Expect a flight status page to load.
+    });
     
     it('Check flight status for a flight that does not exist', function() {
-    Check flight status for a flight number that is not used. Expect an error element in the page that loads.
-      });
+      Check flight status for a flight number that is not used. Expect an error element in the page that loads.
+    });
     
     it('Should allow someone to check in to a flight', function() {
-    Check in to a flight. Expect a specific element containing you are checked in. This may take multiple steps over pages like bag checkin.
-      });
+      Check in to a flight. Expect a specific element containing you are checked in. This may take multiple steps over pages like bag checkin.
+    });
     
     it('Should account for daylight savings time,', function() {
-    Enter a depart time that would occur during the jump of spring daylight savings time. Expect Error or possible date/time adjustment.
-      });
+      Enter a depart time that would occur during the jump of spring daylight savings time. Expect Error or possible date/time adjustment.
+    });
     
     it('Should have an extra day for leap year', function() {
-    Attempt to find a fare that departs on february 29th on a leap year. Expect the date to be valid.
-      });
+      Attempt to find a fare that departs on february 29th on a leap year. Expect the date to be valid.
+    });
     
-    it('shouldn't allow for invalid dates', function() {
-    Enter an invalid date format for a flight's departure/return date. Expect an error.
-      });
+    it('shouldn't allow for invalid departure/arrival dates', function() {
+      Enter an invalid date format for a flight's departure/return date. Expect an error.
+    });
     
     */
 
